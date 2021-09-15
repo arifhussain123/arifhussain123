@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-arifhussain123/arifhussain123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+arifhussain123/arifhussain123 is a ✨ special ✨ repository because its `README.md` (this file) Appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
